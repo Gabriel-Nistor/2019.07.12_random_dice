@@ -1,0 +1,147 @@
+body {
+    background-color: rgb(201, 199, 199);
+}
+
+.main-space {
+    width: 400px;
+    height: 390px;
+    border: solid 0.3px grey;
+}
+
+.dice {
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 60px;
+    height: 60px;
+    border-radius: 3px;
+    box-shadow: 3px -3px 3px 5px black;
+    float: left;
+    background-color: rgb(102, 31, 31);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.button {
+    width: 130px;
+    height: 30px;
+    background-color: rgb(118, 215, 228);
+    font-family: Helvetica, sans-serif;
+    float: center;
+    border-radius: 5px;
+    font-size: 18px;
+    margin: 10px;
+}
+
+.parent-box {
+    width: 400px;
+    height: 300px;
+}
+
+.class-1 {
+    background-image: url("./1.jpg");
+}
+
+.class-2 {
+    background-image: url("./2.jpg");
+}
+
+.class-3 {
+    background-image: url("./3.jpg");
+}
+
+.class-4 {
+    background-image: url("./4.jpg");
+}
+
+.class-5 {
+    background-image: url("./5.jpg");
+}
+
+.class-6 {
+    background-image: url("./6.jpg");
+}
+
+.dice-1 {
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 60px;
+    height: 60px;
+    border-radius: 3px;
+    box-shadow: 3px -3px 3px 5px black;
+    float: left;
+    background-color: rgb(102, 31, 31);
+    background-image: url("./1.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.dice-2 {
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 60px;
+    height: 60px;
+    border-radius: 3px;
+    box-shadow: 3px -3px 3px 5px black;
+    float: left;
+    background-color: rgb(102, 31, 31);
+    background-image: url("./2.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.dice-3 {
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 60px;
+    height: 60px;
+    border-radius: 3px;
+    box-shadow: 3px -3px 3px 5px black;
+    float: left;
+    background-color: rgb(102, 31, 31);
+    background-image: url("./3.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.dice-4 {
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 60px;
+    height: 60px;
+    border-radius: 3px;
+    box-shadow: 3px -3px 3px 5px black;
+    float: left;
+    background-color: rgb(102, 31, 31);
+    background-image: url("./4.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.dice-5 {
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 60px;
+    height: 60px;
+    border-radius: 3px;
+    box-shadow: 3px -3px 3px 5px black;
+    float: left;
+    background-color: rgb(102, 31, 31);
+    background-image: url("./5.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+.dice-6 {
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 60px;
+    height: 60px;
+    border-radius: 3px;
+    box-shadow: 3px -3px 3px 5px black;
+    float: left;
+    background-color: rgb(102, 31, 31);
+    background-image: url("./6.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
